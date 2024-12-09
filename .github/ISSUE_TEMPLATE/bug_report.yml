@@ -1,0 +1,43 @@
+name: Bug Report
+
+description: Use this template to report a bug.
+
+labels: bug
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Description
+        Please provide a clear and concise description of the bug.
+
+  - type: input
+    attributes:
+      label: Steps to Reproduce
+      description: Provide steps to reproduce the issue.
+      placeholder: "Step 1, Step 2, Step 3"
+      required: true
+
+  - type: input
+    attributes:
+      label: Expected Behavior
+      description: Describe the behavior you expected.
+      required: true
+
+  - type: input
+    attributes:
+      label: Actual Behavior
+      description: Describe the behavior that actually occurred.
+      required: true
+
+  - type: input
+    attributes:
+      label: Screenshots (if applicable)
+      description: Add any relevant screenshots.
+      required: false
+
+  - type: input
+    attributes:
+      label: Environment (optional)
+      description: Add any other relevant details about your environment (OS, version, etc.).
+      required: false

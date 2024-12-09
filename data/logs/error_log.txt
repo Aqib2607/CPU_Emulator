@@ -1,0 +1,3 @@
+2024-12-09 10:03:15 - ERROR: Memory access violation at address 0x1000
+2024-12-09 10:03:18 - ERROR: Undefined instruction encountered: XYZ
+2024-12-09 10:03:20 - WARNING: Program execution time exceeded expected limit

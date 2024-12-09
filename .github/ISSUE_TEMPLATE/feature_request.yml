@@ -1,0 +1,30 @@
+name: Feature Request
+
+description: Use this template to propose a new feature.
+
+labels: enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Description
+        Please provide a clear and concise description of the feature.
+
+  - type: input
+    attributes:
+      label: Motivation
+      description: Why should this feature be added? What problems will it solve?
+      required: true
+
+  - type: input
+    attributes:
+      label: Additional Information
+      description: Add any additional details or use cases for this feature.
+      required: false
+
+  - type: input
+    attributes:
+      label: Alternative Solutions (if any)
+      description: Describe any alternative solutions or workarounds you've considered.
+      required: false

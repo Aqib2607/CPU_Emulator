@@ -1,0 +1,6 @@
+2024-12-09 10:00:00 - Emulator started
+2024-12-09 10:05:10 - Loaded program: simple_program.asm
+2024-12-09 10:05:25 - Executing instruction: LOAD R1, 0x1000
+2024-12-09 10:05:30 - Executing instruction: ADD R2, R1, 10
+2024-12-09 10:05:40 - Program execution completed
+2024-12-09 10:05:45 - Emulator stopped

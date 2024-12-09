@@ -1,4 +1,4 @@
-# CPU_Emulator
+# Virtual CPU Emulator
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
